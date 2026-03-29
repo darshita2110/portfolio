@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./preview.png" alt="Portfolio Preview" width="100%"/>
-
 # Darshita Bansal
 
 **AI & Data Science · Flutter · Generative AI**
@@ -55,3 +53,5 @@ AI & Data Science student at **IIIT Raichur** with a passion for building seamle
 ---
 
 <div align="center"><i>✦ Available for Opportunities ✦</i></div>
+
+<img src="./preview.png" alt="Portfolio Preview" width="100%"/>
